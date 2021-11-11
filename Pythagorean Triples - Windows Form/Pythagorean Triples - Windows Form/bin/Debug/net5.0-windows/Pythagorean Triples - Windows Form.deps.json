@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pythagorean Triples - Windows Form/1.0.0": {
+        "runtime": {
+          "Pythagorean Triples - Windows Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pythagorean Triples - Windows Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

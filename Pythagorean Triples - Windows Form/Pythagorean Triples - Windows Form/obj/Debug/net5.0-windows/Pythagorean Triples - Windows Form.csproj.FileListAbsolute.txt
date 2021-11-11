@@ -1,0 +1,19 @@
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.exe
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.deps.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.runtimeconfig.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.runtimeconfig.dev.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\ref\Pythagorean Triples - Windows Form.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\bin\Debug\net5.0-windows\Pythagorean Triples - Windows Form.pdb
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.csproj.AssemblyReference.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean_Triples___Windows_Form.Form1.resources
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean_Triples___Windows_Form.Properties.Resources.resources
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.csproj.GenerateResource.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.AssemblyInfoInputs.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.AssemblyInfo.cs
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.csproj.CoreCompileInputs.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\ref\Pythagorean Triples - Windows Form.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.pdb
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\Pythagorean Triples - Windows Form\Pythagorean Triples - Windows Form\obj\Debug\net5.0-windows\Pythagorean Triples - Windows Form.genruntimeconfig.cache
